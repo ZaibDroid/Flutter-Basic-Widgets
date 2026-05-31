@@ -3,23 +3,21 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
 *A beginner-friendly Flutter repository covering every basic widget with simple explanations, commented code, and real examples.*
 
 ---
 
-## 📖 About
+## About
 
 Before building real Flutter apps, you must understand the building blocks.
-This repository covers every basic Flutter widget — explained simply, coded cleanly, and commented thoroughly so anyone can follow along.
+This repository covers every basic Flutter widget explained simply, coded cleanly, and commented thoroughly so anyone can follow along.
 
-> **Goal →** Understand every basic widget deeply, then build real Flutter screens with full confidence 💪
+> **Goal →** Understand every basic widget deeply, then build real Flutter screens with full confidence 
 
 ---
 
-## 🗺️ Widgets Roadmap
+## Widgets Roadmap
 
 ```
 Flutter-Basic-Widgets
@@ -36,7 +34,7 @@ Flutter-Basic-Widgets
 
 ---
 
-## 📂 Widgets Covered
+## Widgets Covered
 
 | # | Widget | Concepts Inside |
 |:-:|--------|----------------|
@@ -51,7 +49,7 @@ Flutter-Basic-Widgets
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Flutter-Basic-Widgets/
@@ -73,20 +71,20 @@ Flutter-Basic-Widgets/
 
 ---
 
-## ✨ What Makes This Repo Different
+## What Makes This Repo Different
 
-- 🧠 Every widget explained in simple words before the code
-- 🎯 One widget per file — no confusion
+- 🧠 Every widget explained simply before the code
+- 🎯 One widget per file no confusion
 - 💡 Real working examples for every property
-- 📈 Logical order — each topic builds on the previous one
+- 📈 Logical order  each topic builds on the previous one
 - 🚀 Everything here is used in real Flutter apps
 
 ---
 
-## 🛤️ What's Next After This?
+## What's Next After This?
 
 ```
-Flutter-Basic-Widgets ✅
+Flutter-Basic-Widgets 
         │
         ▼
 Flutter-Intermediate-Widgets
@@ -109,11 +107,11 @@ Flutter-Advanced-Widgets
 | Repo | Description |
 |------|-------------|
 | [Dart-zero-to-hero](https://github.com/ZaibDroid/Dart-zero-to-hero) | Complete Dart Language from scratch |
-| Flutter-Intermediate-Widgets | Coming soon 🔜 |
-| Flutter-Advanced-Widgets | Coming soon 🔜 |
+| Flutter-Intermediate-Widgets | Coming soon  |
+| Flutter-Advanced-Widgets | Coming soon  |
 
 ---
 
-**Made with ❤️ by [ZaibDroid](https://github.com/ZaibDroid)**
+**Made by [ZaibDroid](https://github.com/ZaibDroid)**
 
-*Start from `01_materialapp_scaffold.dart` and work your way down — you've got this!*
+*Start from `01_materialapp_scaffold.dart` and work your way down you've got this!*
